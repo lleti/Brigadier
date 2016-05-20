@@ -2,7 +2,7 @@
 class config
 {
     public $username = "BrigadeWarning";
-    public $password = "DwLjJScMmdaF5TVT";
+    public $password = "";
     public $app_key;
     public $app_password;
 
