@@ -1,8 +1,8 @@
 <?php
 class config
 {
-    public $username = ;
-    public $password = "75695wDXP6{Dj1q";
+    public $username = "BrigadeWarning";
+    public $password = "DwLjJScMmdaF5TVT";
     public $app_key;
     public $app_password;
 
